@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebTest Name="WebTest5" Id="f013dbcb-97a0-4695-8c5c-68f2055cd966" Owner="" Priority="2147483647" Enabled="True" CssProjectStructure="" CssIteration="" Timeout="0" WorkItemIds="" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" Description="" CredentialUserName="" CredentialPassword="" PreAuthenticate="True" Proxy="default" StopOnError="False" RecordedResultFile="WebTest5.fc1badf3-e772-4585-b661-17825276df4c.rec.webtestresult" ResultsLocale="">
+  <Items>
+    <Request Method="GET" Guid="2908c7ee-2cf6-499e-88a3-d1f8ee30422f" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="http%3A%2F%2Flocalhost%3A1921%2Fc" RecordedValue="http%3A%2F%2Flocalhost%3A1921%2Fc" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="798" RecordedValue="798" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="40" RecordedValue="40" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="320" RecordedValue="320" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="33c68b48-245d-4594-af1c-8820934fcff5" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="http%3A%2F%2Flocalhost%3A1921%2Fco" RecordedValue="http%3A%2F%2Flocalhost%3A1921%2Fco" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="798" RecordedValue="798" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="40" RecordedValue="40" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="320" RecordedValue="320" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="822c7b67-c1af-4725-9a91-7776bc5519a9" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="http%3A%2F%2Flocalhost%3A1921%2Fcod" RecordedValue="http%3A%2F%2Flocalhost%3A1921%2Fcod" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="798" RecordedValue="798" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="40" RecordedValue="40" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="320" RecordedValue="320" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="e5373539-43a7-4ef1-9ea6-494f8613943c" Version="1.1" Url="http://api.bing.com/qsml.aspx" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <QueryStringParameters>
+        <QueryStringParameter Name="query" Value="http%3A%2F%2Flocalhost%3A1921%2Fcode" RecordedValue="http%3A%2F%2Flocalhost%3A1921%2Fcode" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="maxwidth" Value="798" RecordedValue="798" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="rowheight" Value="40" RecordedValue="40" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="sectionHeight" Value="320" RecordedValue="320" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="FORM" Value="IESS02" RecordedValue="IESS02" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+        <QueryStringParameter Name="market" Value="en-US" RecordedValue="en-US" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="192970e7-da12-42c1-8650-03621ffe5980" Version="1.1" Url="http://localhost:1921/code" ThinkTime="1" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" ReportingName="" IgnoreHttpStatusCode="False" />
+    <Request Method="GET" Guid="979e4455-430a-4257-94ce-0e080bca6c74" Version="1.1" Url="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <DependentRequests>
+        <Request Method="GET" Guid="d27127eb-c374-4027-9379-abeca681030c" Version="1.1" Url="https://www.visualstudio.com/en-us/docs/test/toc.json" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="70c3b290-4a40-4126-b39f-795ed80ec573" Version="1.1" Url="https://www.visualstudio.com/en-us/docs/breadcrumb/toc.json" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="1488b3b1-ee31-41c8-bfb6-7ba3a568dfba" Version="1.1" Url="https://www.visualstudio.com/en-us/docs/_themes/templates/uxs.json" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="0fbfc08e-9723-45a7-81d7-dedc46d57799" Version="1.1" Url="https://www.visualstudio.com/en-us/docs/_themes/uxservice_vscom/Images/shell-icons-0.4.0.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+          </Headers>
+        </Request>
+        <Request Method="GET" Guid="789f0156-9412-4abd-ab8d-906e230265ef" Version="1.1" Url="https://www.visualstudio.com/en-us/docs/_themes/uxservice_vscom/Images/shell-icons-0.4.0.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="ed1688c2-7cbc-4a71-82f5-eab96f5defd7" Version="1.1" Url="https://www.visualstudio.com/en-us/docs/_themes/fonts/glyphicons-halflings-regular.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+        <Request Method="GET" Guid="0e627afd-09bf-474b-84d7-d49861aa4866" Version="1.1" Url="https://www.visualstudio.com/en-us/docs/_themes/fonts/fontawesome-icons.eot" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+          <Headers>
+            <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+          </Headers>
+          <QueryStringParameters>
+            <QueryStringParameter Name="" Value="" RecordedValue="" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+          </QueryStringParameters>
+        </Request>
+      </DependentRequests>
+    </Request>
+    <Request Method="GET" Guid="886cc3cc-b453-4268-a9f3-101a81a1c498" Version="1.1" Url="https://open-rating.azureedge.net/configs/exp-config.json" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="991dcd75-6d59-4a9c-8586-01a5a1aa1ecc" Version="1.1" Url="https://app.vssps.visualstudio.com/_apis/profile/profiles/me" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="https://app.vssps.visualstudio.com/_signin?realm=app.vssps.visualstudio.com&amp;reply_to=https%3A%2F%2Fapp.vssps.visualstudio.com%2F_apis%2Fprofile%2Fprofiles%2Fme%3F_%3D1495808092615&amp;redirect=1&amp;context=eyJodCI6MywiaGlkIjoiYTVjYTM1ZWItMTQ4ZS00Y2NkLWJiYjMtZDMxNTc2ZDc1OTU4IiwicXMiOnt9LCJyciI6IiIsInZoIjoiIiwiY3YiOiIiLCJjcyI6IiJ90#ctx=eyJTaWduSW5Db29raWVEb21haW5zIjpbImh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbSIsImh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbSJdfQ2" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Accept" Value="*/*" />
+        <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+      </Headers>
+      <QueryStringParameters>
+        <QueryStringParameter Name="_" Value="1495808092615" RecordedValue="1495808092615" CorrelationBinding="" UrlEncode="False" UseToGroupResults="False" />
+      </QueryStringParameters>
+    </Request>
+    <Request Method="GET" Guid="28fbb4fd-3b71-4132-bae9-dc9630072b2a" Version="1.1" Url="https://open-rating.azureedge.net/master/version.json" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+      </Headers>
+    </Request>
+    <Request Method="GET" Guid="d66d9ece-94b8-4503-a128-c410fa40c527" Version="1.1" Url="https://open-rating.azureedge.net/master/resources/en-us.json" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+      </Headers>
+    </Request>
+    <Request Method="OPTIONS" Guid="416ea20f-33bb-4b59-95bc-1a15b6942ca6" Version="1.1" Url="https://open-rating-prod.azurewebsites.net/api/v2/user" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <StringHttpBody ContentType="" InsertByteOrderMark="False">
+      </StringHttpBody>
+    </Request>
+    <Request Method="POST" Guid="6d1adf61-7b95-4a4b-946a-eb2a70599ac0" Version="1.1" Url="https://open-rating-prod.azurewebsites.net/api/v2/user" ThinkTime="0" Timeout="300" ParseDependentRequests="True" FollowRedirects="True" RecordResult="True" Cache="False" ResponseTimeGoal="0" Encoding="utf-8" ExpectedHttpStatusCode="0" ExpectedResponseUrl="" ReportingName="" IgnoreHttpStatusCode="False">
+      <Headers>
+        <Header Name="Referer" Value="https://www.visualstudio.com/en-us/docs/test/performance-testing/run-performance-tests-app-before-release" />
+      </Headers>
+      <StringHttpBody ContentType="application/json" InsertByteOrderMark="False">ewAiAGEAbgBvAG4AVQBzAGUAcgBJAGQAIgA6ACIAYQAzADUAMQAzAGYAYwA0AC0AYwAyADAAZQAtADQAYwA5ADQALQBhAGUAYQBmAC0ANgA3ADUAOQBiAGEAYwAzAGEAOQAyAGMAIgAsACIAdgBpAHMAaQB0AFAAYQBnAGUASQBuAGYAbwAiADoAewAiAGQAbwBjAHUAbQBlAG4AdABJAGQAIgA6ACIAZQA2AGIAYgA3AGMANQBhAC0AYgAxADMANQAtAGIAMQBkADIALQA0ADEAZAA5AC0AYQA0ADkAYwAzADkAYgA3AGMAYQAyAGEAIgAsACIAZABvAGMAdQBtAGUAbgB0AFMAbgBhAHAAcwBoAG8AdABJAGQAIgA6ACIAaAB0AHQAcABzADoALwAvAG0AcwBlAG4AZwAuAHYAaQBzAHUAYQBsAHMAdAB1AGQAaQBvAC4AYwBvAG0ALwBEAGUAZgBhAHUAbAB0AEMAbwBsAGwAZQBjAHQAaQBvAG4ALwBWAFMATwBuAGwAaQBuAGUALwBfAGcAaQB0AC8AQwBvAG4AdABlAG4AdAAuAFYAUwAvAGMAbwBtAG0AaQB0AC8AYwA2ADcANwA1ADIAMgAwADgAOQBhADkAMQAwAGIAMwAxADcAMwBkADgAYQBiADMAMQA5ADIAYQBkADEAZAA5AGQAZQA2AGUAOAA0ADgANgA/AHAAYQB0AGgAPQAlADIAZgB2AHMAYwBvAG0AJQAyAGYAZABvAGMAcwAlADIAZgB0AGUAcwB0ACUAMgBmAHAAZQByAGYAbwByAG0AYQBuAGMAZQAtAHQAZQBzAHQAaQBuAGcAJQAyAGYAcgB1AG4ALQBwAGUAcgBmAG8AcgBtAGEAbgBjAGUALQB0AGUAcwB0AHMALQBhAHAAcAAtAGIAZQBmAG8AcgBlAC0AcgBlAGwAZQBhAHMAZQAuAG0AZAAmAF8AYQA9AGMAbwBuAHQAZQBuAHQAcwAiACwAIgBsAG8AYwBhAGwAZQAiADoAIgBlAG4ALQB1AHMAIgB9AH0A</StringHttpBody>
+    </Request>
+  </Items>
+  <ValidationRules>
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidateResponseUrl, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response URL" Description="Validates that the response URL after redirects are followed is the same as the recorded response URL.  QueryString parameters are ignored." Level="Low" ExectuionOrder="BeforeDependents" />
+    <ValidationRule Classname="Microsoft.VisualStudio.TestTools.WebTesting.Rules.ValidationRuleResponseTimeGoal, Microsoft.VisualStudio.QualityTools.WebTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" DisplayName="Response Time Goal" Description="Validates that the response time for the request is less than or equal to the response time goal as specified on the request.  Response time goals of zero will be ignored." Level="Low" ExectuionOrder="AfterDependents">
+      <RuleParameters>
+        <RuleParameter Name="Tolerance" Value="0" />
+      </RuleParameters>
+    </ValidationRule>
+  </ValidationRules>
+</WebTest>
